@@ -27,11 +27,11 @@ Here's a list of inspiring maps from the masters, and fun hand-drawn map activit
 * BrainPickings curated map posts: http://www.brainpickings.org/index.php/2013/03/07/a-map-of-the-world-according-to-illustrators-and-storytellers/ & http://www.brainpickings.org/index.php/2012/04/17/magnificent-maps-cartography-as-power-propaganda-and-art/ & http://www.brainpickings.org/index.php/2011/01/07/must-read-map-books/
 
 ##Resources
-Nat Geo Mapmaker Kits: http://education.nationalgeographic.com/education/programs/nat-geo-mapmaker-kits/
-Tools to play with projections:
-* Kartograph: http://kartograph.org/showcase/projections/#ortho
-* Jason Davies: http://www.jasondavies.com/maps/transition/
-* Mike Bostock: http://bl.ocks.org/mbostock/3711652
+* Nat Geo Mapmaker Kits: http://education.nationalgeographic.com/education/programs/nat-geo-mapmaker-kits/
+* Tools to play with projections:
+  * Kartograph: http://kartograph.org/showcase/projections/#ortho 
+  * Jason Davies: http://www.jasondavies.com/maps/transition/
+  * Mike Bostock: http://bl.ocks.org/mbostock/3711652
 
 ##Activities
 Work on a personal project, or pick a couple of activities to do at Maptime!  Be sure to bring your own art supplies, though we'll have some trace paper, pens, and colored pencils available.  Feel free to bring references or things you'd like to trace as well. These activities are inspired in part by [Map Art Lab](http://www.parkablogs.com/content/book-review-map-art-lab-52-exciting-art-explorations-mapmaking-imagination-and-travel).
