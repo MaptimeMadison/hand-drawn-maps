@@ -56,7 +56,7 @@ Are you really into [geocaching](https://www.geocaching.com/) or FINDING TREASUR
 
 ![Treasure Map](http://images.kiwicrate.com/live/thumbs/tstep/iaac61539fd1f/75ddb5442196.jpg)
 
-1. Make a list of your favorite Bay Area "not for tourists super legit" spots or paths.  _For example, I could make a map of legit Ethiopian spots, or favorite places to walk in Rock Creek Park._
+1. Make a list of your favorite DC "not for tourists super legit" spots or paths.  _For example, I could make a map of legit Ethiopian spots, or favorite places to walk in Rock Creek Park._
 2. Draw it! Need a base map?  Try [Maps --> Image](http://maps.stamen.com/m2i/#toner-lite/768:512/12/37.8148/-122.3859) from Stamen.
 3. For the spirited folk, crumble up your paper and stain it with tea. [More instructions here.](http://www.kiwicrate.com/projects/Tea-Stained-Treasure-Maps/752)
 4. Adding a [pirate ship](http://www.marapets.com/pirateship.php) in the Potomac is optional.
