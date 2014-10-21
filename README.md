@@ -40,7 +40,7 @@ Work on a personal project, or pick a couple of activities to do at Maptime!  Be
 
 ###01 Mental Maps & Commute Trips, Rawr
 How do you get from point A to point B? What do you note along the way? If you're curious about Mental Maps, a couple folks at Berkeley's I-School have a great "[Visualizing Mental Maps of San Francisco](http://groups.ischool.berkeley.edu/mentalmaps/index.html#)" project. 
-If you need ideas on how to draw your map or what to feature, check out Kevin Lynch's [*Image of the City* elements](http://en.wikipedia.org/wiki/Kevin_A._Lynch#The_Image_of_the_City)
+If you need ideas on how to draw your map or what to feature, check out Kevin Lynch's [*Image of the City* elements](http://en.wikipedia.org/wiki/Kevin_A._Lynch#The_Image_of_the_City).
 
 Examples!
 
