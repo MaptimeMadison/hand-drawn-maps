@@ -1,7 +1,8 @@
 Hand-drawn Maps
 ===============
+*Adapted from [Danielle Dai's](https://github.com/ddai) awesome post on hand-drawn maps for MaptimeSF.*
 
-Leave the laptops at home because [Maptime SF](http://www.meetup.com/Maptime-SF/) is going analog - aka it's arts & crafts time!
+Leave the laptops at home because [Maptime DC](http://www.meetup.com/Maptime-DC/) is going analog - aka it's arts & crafts time!
 
 Here's a list of inspiring maps from the masters, and fun hand-drawn map activities to get you started.  Yay!
 
@@ -32,28 +33,33 @@ Here's a list of inspiring maps from the masters, and fun hand-drawn map activit
   * Kartograph: http://kartograph.org/showcase/projections/#ortho 
   * Jason Davies: http://www.jasondavies.com/maps/transition/
   * Mike Bostock: http://bl.ocks.org/mbostock/3711652
+* MaptimeDC Mental map slides: http://bit.ly/MentalMapping 
 
 ##Activities
 Work on a personal project, or pick a couple of activities to do at Maptime!  Be sure to bring your own art supplies, though we'll have some trace paper, pens, and colored pencils available.  Feel free to bring references or things you'd like to trace as well. These activities are inspired in part by [Map Art Lab](http://www.parkablogs.com/content/book-review-map-art-lab-52-exciting-art-explorations-mapmaking-imagination-and-travel).
 
 ###01 Mental Maps & Commute Trips, Rawr
-I'm a transportation planner/engineer, so I'm always thinking about how one gets from point A to point B.  And I've always wanted to do a mental maps exercise and collect sweet qualitiative data on perceived commutes, so yay!  If you're curious about Mental Maps, a couple folks at Berkeley's I-School have a great "[Visualizing Mental Maps of San Francisco](http://groups.ischool.berkeley.edu/mentalmaps/index.html#)" project.
+How do you get from point A to point B? What do you note along the way? If you're curious about Mental Maps, a couple folks at Berkeley's I-School have a great "[Visualizing Mental Maps of San Francisco](http://groups.ischool.berkeley.edu/mentalmaps/index.html#)" project. 
+If you need ideas on how to draw your map or what to feature, check out Kevin Lynch's [*Image of the City* elements](http://en.wikipedia.org/wiki/Kevin_A._Lynch#The_Image_of_the_City)
+
+Examples!
 
 ![Rachelle Annechino's mental map of SF - aka a DINOSAUR](http://groups.ischool.berkeley.edu/mentalmaps/img/thumb_sketch_ra.jpg)
+![A mental map of NYC](http://www.acsu.buffalo.edu/~arced/arch&society/cogmap/ny5.jpg) 
 
 1. Sketch a map of your neighborhood, and the places you live in and out of.
-2. Draw your commute, and the sights along the way -OR-
+2. Draw your commute, and the sights along the way.
 3. Draw how you got to Maptime tonight.
 
-###02 Bay Area Local Treasure Map
-Are you really into [geocaching](https://www.geocaching.com/) or FINDING TREASURE?!  I know I like treasure.  Unfortunately, I don't have gold to hide, nor [hundred dollar bills](https://twitter.com/hiddencash) whose location I can tweet out, but we can still find Bay Area treasures all around (Tilden Park? Awwww yeah).
+###02 Washington, DC Local Treasure Map
+Are you really into [geocaching](https://www.geocaching.com/) or FINDING TREASURE?!  I know I like treasure.  Unfortunately, I don't have gold to hide, nor [hundred dollar bills](https://twitter.com/hiddencash) whose location I can tweet out, but we can still find DC treasures all around.
 
 ![Treasure Map](http://images.kiwicrate.com/live/thumbs/tstep/iaac61539fd1f/75ddb5442196.jpg)
 
-1. Make a list of your favorite Bay Area "not for tourists super legit" spots or paths.  _For example, I could make a map of legit dim sum spots, or favorite places to bike._
+1. Make a list of your favorite Bay Area "not for tourists super legit" spots or paths.  _For example, I could make a map of legit Ethiopian spots, or favorite places to walk in Rock Creek Park._
 2. Draw it! Need a base map?  Try [Maps --> Image](http://maps.stamen.com/m2i/#toner-lite/768:512/12/37.8148/-122.3859) from Stamen.
 3. For the spirited folk, crumble up your paper and stain it with tea. [More instructions here.](http://www.kiwicrate.com/projects/Tea-Stained-Treasure-Maps/752)
-4. Adding a [pirate ship](http://www.marapets.com/pirateship.php) in the bay is optional.
+4. Adding a [pirate ship](http://www.marapets.com/pirateship.php) in the Potomac is optional.
 5. Trade your treasure map with a fellow Maptimer and go adventuring, yay!
 
 ###03 [Where Do We Go](https://www.youtube.com/watch?v=Yt-KMPvgKPo)
@@ -77,4 +83,4 @@ Don't forget to spruce up your map and:
 
 ## Show & Tell
 
-to come.  Ping me [@danielledai](https://twitter.com/danielledai) so I can collect your/more sweet hand-drawn maps.
+Ping us at [@MaptimeDC](https://twitter.com/MaptimeDC) so we can collect and showcase your sweet hand-drawn maps.
