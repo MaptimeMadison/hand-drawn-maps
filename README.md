@@ -4,6 +4,10 @@ Hand-drawn Maps
 
 Leave the laptops at home because [Maptime DC](http://www.meetup.com/Maptime-DC/) is going analog - aka it's arts & crafts time!
 
+Slides from the meetup: 
+[Rosemary's](https://twitter.com/rosemarywardley) [Hand Drawn map slides](https://www.dropbox.com/s/bk4un067ms8ql3f/Hand%20Drawn%20Maps.pdf?dl=0)
+[Courtney's](https://twitter.com/sidewalkballet) [Mental Map slides](http://bit.ly/MentalMapping)
+
 Here's a list of inspiring maps from the masters, and fun hand-drawn map activities to get you started.  Yay!
 
 ##Inspiration: Artists
@@ -33,7 +37,7 @@ Here's a list of inspiring maps from the masters, and fun hand-drawn map activit
   * Kartograph: http://kartograph.org/showcase/projections/#ortho 
   * Jason Davies: http://www.jasondavies.com/maps/transition/
   * Mike Bostock: http://bl.ocks.org/mbostock/3711652
-* MaptimeDC Mental map slides: http://bit.ly/MentalMapping 
+
 
 ##Activities
 Work on a personal project, or pick a couple of activities to do at Maptime!  Be sure to bring your own art supplies, though we'll have some trace paper, pens, and colored pencils available.  Feel free to bring references or things you'd like to trace as well. These activities are inspired in part by [Map Art Lab](http://www.parkablogs.com/content/book-review-map-art-lab-52-exciting-art-explorations-mapmaking-imagination-and-travel).
